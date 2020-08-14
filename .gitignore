@@ -1,0 +1,35 @@
+# Executables and binaries
+*.bin
+*.com
+*.exe
+*.elf
+*.elf16
+*.elf32
+*.elf64
+*.out
+*.app
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled static libraries
+*.lib
+*.a
+*.la
+*.lai
+
+# Compiled object files
+*.obj
+*.o
+*.lo
+*.slo
+
+# Temp files and folders
+/**/tmp/**/*
+/**/.vs/**/*
+/**/.vscode/**/*
+
+# Windows special files
+desktop.ini
